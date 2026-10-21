@@ -288,8 +288,8 @@ Finally it will go through the process of adding each user to the domain (New-Ad
 - Skip customization services and Cortana
 
 ## Step 13: Verify Internet Connectivity
+<img width="1077" height="822" alt="image" src="https://github.com/user-attachments/assets/1a567301-2e27-4f23-aa2f-e8f9c964d3c1" />
 
-<img width="1022" height="823" alt="image" src="https://github.com/user-attachments/assets/a90e5a10-7589-46b9-ac82-6d326765024b" />
 
 - **Start** > "cmd"
 - Type `ipconfig`
